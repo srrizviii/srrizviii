@@ -7,7 +7,7 @@ I'm [Rayan Rizvi](https://www.linkedin.com/in/rayan-rizvi-1241732bb/), a 3rd yea
 - Embedded systems
 - Computer architecture
 - Coding random things
-- Playing footy ⚽
-- Lifting 🏋️
+- Playing footy
+- Working out
 
 
